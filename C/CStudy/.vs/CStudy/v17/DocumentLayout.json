@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9179E4F-6151-46D6-AC8C-8D931AF37A01}|CStudy\\CStudy.vcxproj|C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\p540.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9179E4F-6151-46D6-AC8C-8D931AF37A01}|CStudy\\CStudy.vcxproj|solutionrelative:CStudy\\p540.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9179E4F-6151-46D6-AC8C-8D931AF37A01}|CStudy\\CStudy.vcxproj|C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9179E4F-6151-46D6-AC8C-8D931AF37A01}|CStudy\\CStudy.vcxproj|solutionrelative:CStudy\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9179E4F-6151-46D6-AC8C-8D931AF37A01}|CStudy\\CStudy.vcxproj|C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\example.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9179E4F-6151-46D6-AC8C-8D931AF37A01}|CStudy\\CStudy.vcxproj|solutionrelative:CStudy\\example.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p540.c",
+              "DocumentMoniker": "C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\p540.c",
+              "RelativeDocumentMoniker": "CStudy\\p540.c",
+              "ToolTip": "C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\p540.c",
+              "RelativeToolTip": "CStudy\\p540.c",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-14T02:12:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "example.h",
+              "DocumentMoniker": "C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\example.h",
+              "RelativeDocumentMoniker": "CStudy\\example.h",
+              "ToolTip": "C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\example.h",
+              "RelativeToolTip": "CStudy\\example.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-14T00:04:50.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\main.c",
+              "RelativeDocumentMoniker": "CStudy\\main.c",
+              "ToolTip": "C:\\Users\\Protec\\Desktop\\study\\CPPStudy\\C\\CStudy\\CStudy\\main.c",
+              "RelativeToolTip": "CStudy\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-14T00:03:38.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
