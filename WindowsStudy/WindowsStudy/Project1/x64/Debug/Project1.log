@@ -1,0 +1,7 @@
+﻿  p72.c
+C:\Users\Protec\Desktop\study\CPPStudy\WindowsStudy\WindowsStudy\Project1\p72.c(11,8): warning C4101: 'str3' :참조되지 않은 지역 변수입니다.
+C:\Users\Protec\Desktop\study\CPPStudy\WindowsStudy\WindowsStudy\Project1\p72.c(12,8): warning C4101: 'str4' :참조되지 않은 지역 변수입니다.
+C:\Users\Protec\Desktop\study\CPPStudy\WindowsStudy\WindowsStudy\Project1\p72.c(17,1): warning C4716: 'p72': 값을 반환해야 합니다.
+  Project1.vcxproj -> C:\Users\Protec\Desktop\study\CPPStudy\WindowsStudy\WindowsStudy\x64\Debug\Project1.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
